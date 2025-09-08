@@ -38,6 +38,7 @@ Unofficial, but curated list of Vespa.ai resources
 
 ## Japanese
 * [Yahoo! using Vespa! Flea market vector search - Product search with similar images](https://techblog.lycorp.co.jp/ja/20250908c)
+* [Vespa Linguistics with Kuromoji Tokenizer](https://github.com/yahoojapan/vespa-kuromoji-linguistics)
 
 # Tools and integrations
 
