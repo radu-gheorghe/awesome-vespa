@@ -30,9 +30,18 @@ Unofficial, but curated list of Vespa.ai resources
 ## Deploy/operate
 * Deploying in Kubernetes: [part 1](https://medium.com/@kumargaurav.pandey/vespa-ai-a-devops-focussed-guide-part-1-2424c6056bd7) and [part 2](https://medium.com/@kumargaurav.pandey/vespa-ai-a-devops-focussed-guide-part-2-63873c4c75d6)
 
+## Watch
+* [Getting Started with Vespa AI Search](https://www.youtube.com/watch?v=kaFDpIwY9F0)
+* [Personalized Search: Advanced Ranking & Tensor framework](https://www.youtube.com/watch?v=362U7alsfuI)
+* [The RAG Blueprint Overview](https://www.youtube.com/watch?v=su81gUdW1w8)
+* [Atita Arora – Understanding Vespa with a Lucene mindset](https://www.youtube.com/watch?v=_ML-QB0Zxvg)
+* [Official Vespa youtube channel](https://www.youtube.com/channel/UCVXw_f6UHff8-V9FA1LMIiw)
+* [Harrison Pim, Fred O'Loughlin – Building a knowledge graph for climate policy](https://www.youtube.com/watch?v=H6BhF6zSvp4&list=PLq-odUc2x7i8dTff006Wg2r0fsseSGrpJ)
+
 # Use-cases and studies
 * [Vinted's journey from Elasticsearch to Vespa](https://vinted.engineering/2024/09/05/goodbye-elasticsearch-hello-vespa)
 * [Vinted's journey to data modernisation podcast](https://em360tech.com/podcasts/vinted-journey-data-modernisation-vespa)
+* [More official Vespa case studies](https://vespa.ai/case-studies) - who uses Vespa?
 
 # Non-English
 
@@ -50,7 +59,7 @@ Unofficial, but curated list of Vespa.ai resources
 * [YQL parser](https://www.yql-parser.com/)
 
 ## Monitor
-* [Vispana](https://github.com/spotify/vispana)
+* [Vispana (by Spotify)](https://github.com/spotify/vispana)
 * [Datadog Vespa integration](https://docs.datadoghq.com/integrations/vespa/)
 * [Grafana dashboard](https://grafana.com/grafana/dashboards/11018-vespa-metrics-oss/)
 
@@ -63,15 +72,24 @@ Unofficial, but curated list of Vespa.ai resources
 
 ## Tutorials and guides
 * [Sample applications](https://github.com/vespa-engine/sample-apps)
-* [Vespa documentation](https://docs.vespa.ai/)
-* [Vespa blog](https://blog.vespa.ai/)
+* [Pyvespa notebooks](https://vespa-engine.github.io/pyvespa/examples/Matryoshka_embeddings_in_Vespa-cloud.html) - lot of great examples of how to feed, query, infer models and evaluate results
+* [Vespa documentation](https://docs.vespa.ai/) - our documentation is also a RAG app which lets you ask questions!
+* [Visual RAG over PDFs with ColPali](https://huggingface.co/spaces/vespa-engine/colpali-vespa-visual-retrieval) - see how you can search any printable visually without ever converting to text!
+* Lots more in [Official Vespa blog](https://blog.vespa.ai/)
+
+## Benchmarks
+* [Elasticsearch vs Vespa performance comparison](https://blog.vespa.ai/elasticsearch-vs-vespa-performance-comparison/)
+  * A comprehensive, reproducible report that goes in depth on Vespa performance characteristics
+* [Vespa on ANN Benchmarks](https://ann-benchmarks.com/index.html#hnsw(vespa))
 
 ## Clients and integrations
 * [PyVespa](https://vespa-engine.github.io/pyvespa/)
+* [Vespa CLI](https://docs.vespa.ai/en/vespa-cli.html)
 * [Java Feed Client](https://docs.vespa.ai/en/vespa-feed-client.html)
 * [IDE Support](https://docs.vespa.ai/en/ide-support.html)
 * [Logstash input and output plugins](https://github.com/vespa-engine/vespa/tree/master/integration/logstash-plugins). Tutorial blog post [here](https://blog.vespa.ai/logstash-vespa-tutorials/) and using Logstash to detect schema [here](https://blog.vespa.ai/logstash-quick-start/)
 * LangGraph. Sample apps [here](https://github.com/vespa-engine/sample-apps/tree/master/examples/agentic-streamlit-chatbot) and blog post [here](https://blog.vespa.ai/retail-ai-assistant/)
+* Llamaindex integration: [demo](https://docs.llamaindex.ai/en/stable/examples/vector_stores/VespaIndexDemo/) and [blog post](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
 
 ## Deploy
 * [Vespa Cloud](https://cloud.vespa.ai/)
