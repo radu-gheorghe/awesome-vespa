@@ -27,6 +27,7 @@ Unofficial, but curated list of Vespa.ai resources
 * [How to quickly implement a text search system using pyvespa](https://blog.marvik.ai/2022/11/17/how-to-quickly-implement-a-text-search-system-using-pyvespa/)
 * [Build Scalable Search Applications With Vespa](https://astconsulting.in/vespa/build-scalable-search-applications-vespa-2)
 * [Efficient open-domain question-answering on Vespa.ai](https://towardsdatascience.com/efficient-open-domain-question-answering-on-vespa-ai-72562121dcd8/)
+* [Vespa Guide for Solr Users](https://blog.vespa.ai/solr-vs-vespa/]
 
 ## Deploy/operate
 * Deploying in Kubernetes: [part 1](https://medium.com/@kumargaurav.pandey/vespa-ai-a-devops-focussed-guide-part-1-2424c6056bd7) and [part 2](https://medium.com/@kumargaurav.pandey/vespa-ai-a-devops-focussed-guide-part-2-63873c4c75d6)
