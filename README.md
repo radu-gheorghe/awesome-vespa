@@ -18,6 +18,7 @@ Unofficial, but curated list of Vespa.ai resources
   - [Clients and integrations](#clients-and-integrations)
   - [Deploy](#deploy-1)
 - [Consulting and training](#consulting-and-training)
+- [General Search/Information Retrieval resources](#general-search-information-retrieval-resources)
 
 # Tutorials and guides
 
@@ -100,3 +101,8 @@ Unofficial, but curated list of Vespa.ai resources
 * [SearchPlex](https://www.searchplex.net/vespa-ai-consulting)
 * Sease [consulting](https://sease.io/consulting/vespa-consulting) and [training](https://sease.io/training/vespa-training-list)
 * [Vespa AI Search Engine and Vector Database with Python](https://www.udemy.com/course/vespa-ai-search-engine-and-vector-database-with-python/)
+
+# General Search / Information Retrieval Resources
+* [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
+* [awesome-search](https://github.com/frutik/awesome-search)
+* The AI-Powered Search book(https://aipoweredsearch.com/)
