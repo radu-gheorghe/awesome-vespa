@@ -27,23 +27,19 @@ Unofficial, but curated list of Vespa.ai resources
 * [How to quickly implement a text search system using pyvespa](https://blog.marvik.ai/2022/11/17/how-to-quickly-implement-a-text-search-system-using-pyvespa/)
 * [Build Scalable Search Applications With Vespa](https://astconsulting.in/vespa/build-scalable-search-applications-vespa-2)
 * [Efficient open-domain question-answering on Vespa.ai](https://towardsdatascience.com/efficient-open-domain-question-answering-on-vespa-ai-72562121dcd8/)
-* [Vespa Guide for Solr Users](https://blog.vespa.ai/solr-vs-vespa/]
 
 ## Deploy/operate
 * Deploying in Kubernetes: [part 1](https://medium.com/@kumargaurav.pandey/vespa-ai-a-devops-focussed-guide-part-1-2424c6056bd7) and [part 2](https://medium.com/@kumargaurav.pandey/vespa-ai-a-devops-focussed-guide-part-2-63873c4c75d6)
 
 ## Watch
-* [Getting Started with Vespa AI Search](https://www.youtube.com/watch?v=kaFDpIwY9F0)
-* [Personalized Search: Advanced Ranking & Tensor framework](https://www.youtube.com/watch?v=362U7alsfuI)
-* [The RAG Blueprint Overview](https://www.youtube.com/watch?v=su81gUdW1w8)
 * [Atita Arora – Understanding Vespa with a Lucene mindset](https://www.youtube.com/watch?v=_ML-QB0Zxvg)
-* [Official Vespa youtube channel](https://www.youtube.com/channel/UCVXw_f6UHff8-V9FA1LMIiw)
 * [Harrison Pim, Fred O'Loughlin – Building a knowledge graph for climate policy](https://www.youtube.com/watch?v=H6BhF6zSvp4&list=PLq-odUc2x7i8dTff006Wg2r0fsseSGrpJ)
+* [Vespa-related presentations playlist](https://www.youtube.com/watch?v=pg_oPbYXTPU&list=PL74-V_Ao6U-HDEKIR3jM8O2GM5mCRNbiC)
+* [Vespa-related podcasts playlist](https://www.youtube.com/watch?v=mI2DD6pnG80&list=PL74-V_Ao6U-FhwHvOXetIGuHSIsypr7RA)
 
 # Use-cases and studies
 * [Vinted's journey from Elasticsearch to Vespa](https://vinted.engineering/2024/09/05/goodbye-elasticsearch-hello-vespa)
 * [Vinted's journey to data modernisation podcast](https://em360tech.com/podcasts/vinted-journey-data-modernisation-vespa)
-* [More official Vespa case studies](https://vespa.ai/case-studies) - who uses Vespa?
 
 # Non-English
 
@@ -71,13 +67,15 @@ Unofficial, but curated list of Vespa.ai resources
 # Official resources
 * [Vespa website](https://vespa.ai/)
 * [Vespa Github org](https://github.com/vespa-engine)
+* [Vespa case studies](https://vespa.ai/case-studies) - who uses Vespa?
 
 ## Tutorials and guides
 * [Sample applications](https://github.com/vespa-engine/sample-apps)
+* [Vespa Guide for Solr Users](https://blog.vespa.ai/solr-vs-vespa/)
 * [Pyvespa notebooks](https://vespa-engine.github.io/pyvespa/examples/Matryoshka_embeddings_in_Vespa-cloud.html) - lot of great examples of how to feed, query, infer models and evaluate results
 * [Vespa documentation](https://docs.vespa.ai/) - our documentation is also a RAG app which lets you ask questions!
 * [Visual RAG over PDFs with ColPali](https://huggingface.co/spaces/vespa-engine/colpali-vespa-visual-retrieval) - see how you can search any printable visually without ever converting to text!
-* Lots more in [Official Vespa blog](https://blog.vespa.ai/)
+* Lots more on the [Official Vespa blog](https://blog.vespa.ai/)
 
 ## Benchmarks
 * [Elasticsearch vs Vespa performance comparison](https://blog.vespa.ai/elasticsearch-vs-vespa-performance-comparison/)
@@ -97,6 +95,12 @@ Unofficial, but curated list of Vespa.ai resources
 * [Vespa Cloud](https://cloud.vespa.ai/)
 * [Official Docker images](https://hub.docker.com/r/vespaengine/vespa/)
 * [AWS Marketplace](https://aws.amazon.com/marketplace/seller-profile?id=seller-p6kptsjie2mzk)
+
+## Watch
+* [Getting Started with Vespa AI Search](https://www.youtube.com/watch?v=kaFDpIwY9F0)
+* [Personalized Search: Advanced Ranking & Tensor framework](https://www.youtube.com/watch?v=362U7alsfuI)
+* [The RAG Blueprint Overview](https://www.youtube.com/watch?v=su81gUdW1w8)
+* [Official Vespa Youtube channel](https://www.youtube.com/channel/UCVXw_f6UHff8-V9FA1LMIiw)
 
 # Consulting and training
 * [SearchPlex](https://www.searchplex.net/vespa-ai-consulting)
