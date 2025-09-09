@@ -5,9 +5,11 @@ Unofficial, but curated list of Vespa.ai resources
 - [Tutorials and guides](#tutorials-and-guides)
   - [Develop](#develop)
   - [Deploy/operate](#deployoperate)
+  - [Watch](#watch)
 - [Use-cases and studies](#use-cases-and-studies)
 - [Non-English](#non-english)
   - [Japanese](#japanese)
+- [Benchmarks](#benchmarks)
 - [Tools and integrations](#tools-and-integrations)
   - [Write](#write)
   - [Read](#read)
@@ -15,10 +17,14 @@ Unofficial, but curated list of Vespa.ai resources
   - [Deploy](#deploy)
 - [Official resources](#official-resources)
   - [Tutorials and guides](#tutorials-and-guides-1)
+  - [Learning tensors](#learning-tensors)
+  - [Benchmarks](#benchmarks)
   - [Clients and integrations](#clients-and-integrations)
   - [Deploy](#deploy-1)
+  - [Watch](#watch-1)
 - [Consulting and training](#consulting-and-training)
-- [General Search/Information Retrieval resources](#general-search-information-retrieval-resources)
+- [Community](#community)
+- [General Search/Information Retrieval resources](#general-search--information-retrieval-resources)
 
 # Tutorials and guides
 
@@ -40,12 +46,17 @@ Unofficial, but curated list of Vespa.ai resources
 # Use-cases and studies
 * [Vinted's journey from Elasticsearch to Vespa](https://vinted.engineering/2024/09/05/goodbye-elasticsearch-hello-vespa)
 * [Vinted's journey to data modernisation podcast](https://em360tech.com/podcasts/vinted-journey-data-modernisation-vespa)
+* [Onyx: Open Source Gen-AI + Enterprise Search using Vespa for retrieval](https://github.com/onyx-dot-app/onyx). The Vespa-specific part is [here](https://github.com/onyx-dot-app/onyx/tree/main/backend/onyx/document_index/vespa)
+* [AllenAI Ai2 ScholarQA](https://allenai.org/blog/ai2-scholarqa) - system for answering scientific queries and generating literature reviews
 
 # Non-English
 
 ## Japanese
 * [Yahoo! using Vespa! Flea market vector search - Product search with similar images](https://techblog.lycorp.co.jp/ja/20250908c)
 * [Vespa Linguistics with Kuromoji Tokenizer](https://github.com/yahoojapan/vespa-kuromoji-linguistics)
+
+# Benchmarks
+* [Vespa on ANN Benchmarks](https://ann-benchmarks.com/index.html#hnsw(vespa))
 
 # Tools and integrations
 
@@ -66,7 +77,6 @@ Unofficial, but curated list of Vespa.ai resources
 
 # Official resources
 * [Vespa website](https://vespa.ai/)
-* [Vespa Github org](https://github.com/vespa-engine)
 * [Vespa case studies](https://vespa.ai/case-studies) - who uses Vespa?
 
 ## Tutorials and guides
@@ -77,10 +87,12 @@ Unofficial, but curated list of Vespa.ai resources
 * [Visual RAG over PDFs with ColPali](https://huggingface.co/spaces/vespa-engine/colpali-vespa-visual-retrieval) - see how you can search any printable visually without ever converting to text!
 * Lots more on the [Official Vespa blog](https://blog.vespa.ai/)
 
+## Learning tensors
+* [Tensor Playground](https://docs.vespa.ai/playground/) - check out examples and build your own
+* [24 Tensor Playground Challenges (Advent)](https://blog.vespa.ai/advent-of-tensors-2023/)
+
 ## Benchmarks
-* [Elasticsearch vs Vespa performance comparison](https://blog.vespa.ai/elasticsearch-vs-vespa-performance-comparison/)
-  * A comprehensive, reproducible report that goes in depth on Vespa performance characteristics
-* [Vespa on ANN Benchmarks](https://ann-benchmarks.com/index.html#hnsw(vespa))
+* [Elasticsearch vs Vespa performance comparison](https://blog.vespa.ai/elasticsearch-vs-vespa-performance-comparison/). A comprehensive, reproducible report that goes in depth on Vespa performance characteristics
 
 ## Clients and integrations
 * [PyVespa](https://vespa-engine.github.io/pyvespa/)
@@ -107,7 +119,12 @@ Unofficial, but curated list of Vespa.ai resources
 * Sease [consulting](https://sease.io/consulting/vespa-consulting) and [training](https://sease.io/training/vespa-training-list)
 * [Vespa AI Search Engine and Vector Database with Python](https://www.udemy.com/course/vespa-ai-search-engine-and-vector-database-with-python/)
 
+# Community
+* [Public Slack](https://slack.vespa.ai/)
+* [Twitter](https://twitter.com/vespaengine)
+* [Vespa Github org](https://github.com/vespa-engine)
+
 # General Search / Information Retrieval Resources
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
 * [awesome-search](https://github.com/frutik/awesome-search)
-* The AI-Powered Search book(https://aipoweredsearch.com/)
+* [AI-Powered Search book](https://aipoweredsearch.com/)
