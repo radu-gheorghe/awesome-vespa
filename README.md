@@ -140,3 +140,8 @@ Unofficial, but curated list of Vespa.ai resources
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
 * [awesome-search](https://github.com/frutik/awesome-search)
 * [AI-Powered Search book](https://aipoweredsearch.com/)
+
+# Misc
+* [Notes on Vespa](https://www.jocas.lt/notes/)
+* [Experimental Apps](https://github.com/dainiusjocas/notes/tree/main/examples)
+
